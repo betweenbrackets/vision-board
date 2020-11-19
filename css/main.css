@@ -1,0 +1,79 @@
+body {
+    background: #E8E8E8;
+}
+.large-block {
+    float: left;
+    width: 400px;
+    height: 430px;
+    box-sizing: border-box;
+    height: 430px;
+    padding: 40px 30px 25px 30px;
+}
+
+.small-block {
+    float: left;
+    width: 400px;
+    height: 210px;
+    box-sizing: border-box;
+    height: 210px;
+    padding: 30px;
+}
+
+#vision-board {
+    width: 1200px;
+    height: 850px;
+    background: url('../img/background.png');
+    margin: 50px auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 40%;
+}
+
+.light-bg {
+    background-color: #FFFFFF;
+}
+
+.dark-bg {
+    background-color: #3b3b3b;
+}
+
+.marker-text {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.title-text {
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+ .highlight {
+    background-color: #ffff00;
+}
+
+.strong-text {
+    text-transform: none;
+    font-size: 38px;
+}
+
